@@ -1,0 +1,15 @@
+.capitalize{
+	text-transform: capitalize;
+}
+
+.cursorLeadCell{
+	width: 20%;
+}
+
+.previewArea{
+	background-color: rgb(240, 240, 240);
+}
+
+.previewArea:hover{
+	background-color: rgb(250, 250, 250);
+}
